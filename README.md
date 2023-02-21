@@ -10,14 +10,14 @@ attention to detail, zest for learning and trying new things and the ability to 
 dependable and a detail-oriented person, meticulous and highly efficient.
 
 ### Languages and Tools
-<img src="./dev/languages/php.png" alt="php" style="vertical-align:top; margin:4px">
-<img src="./dev/misc/mysql.png" alt="mysql" style="vertical-align:top; margin:4px">
-<img src="./dev/languages/js.png" alt="js" style="vertical-align:top; margin:4px">
-<img src="./dev/frameworks/react.png" alt="react" style="vertical-align:top; margin:4px">
-<img src="./dev/frameworks/nodejs.png" alt="nodejs" style="vertical-align:top; margin:4px">
-<img src="./dev/languages/css3.png" alt="css3" style="vertical-align:top; margin:4px">
-<img src="./dev/languages/html.png" alt="html" style="vertical-align:top; margin:4px">
-<img src="./dev/frameworks/bootstrap.png" alt="bootstrap" style="vertical-align:top; margin:4px">
-<img src="./dev/services/npm.png" alt="npm" style="vertical-align:top; margin:4px">
-<img src="./dev/misc/mongodb.png" alt="mongodb" style="vertical-align:top; margin:4px">
-<img src="./dev/misc/photoshop.png" alt="photoshop" style="vertical-align:top; margin:4px">
+![Image 1](./dev/languages/php.png)
+![Image 2](./dev/misc/mysql.png)
+![Image 3](./dev/languages/js.png)
+![Image 4](./dev/frameworks/react.png)
+![Image 5](./dev/frameworks/nodejs.png)
+![Image 6](./dev/languages/css3.png)
+![Image 7](./dev/languages/html.png)
+![Image 8](./dev/frameworks/bootstrap.png)
+![Image 9](./dev/services/npm.png)
+![Image 10](./dev/misc/mongodb.png)
+![Image 11](./dev/misc/photoshop.png)
