@@ -10,7 +10,7 @@ TechTribe is a CRM for Lead Management. The project was created and implemented 
 Frontend: HTML, CSS, React, Tailwind  
 Backend: PHP, Laravel, MySQL
 
-<img src="projects/techtribe_login.png" height="200" /> <img src="projects/techtribe_definestates.png" height="200" /> <img src="projects/techtribe_dashboard.png" height="200" />
+<img src="projects/techtribe_definestates.png" height="200" /> <img src="projects/techtribe_dashboard.png" height="200" />
 
 ### ecoMarts - Eco-friendly and Sustainable Products
 ecoMarts is a MERN e-commerce platform that focuses on offering eco-friendly and sustainable products.
@@ -18,7 +18,7 @@ ecoMarts is a MERN e-commerce platform that focuses on offering eco-friendly and
 Frontend: HTML, CSS, React, Bootstrap  
 Backend: MongoDB (Compass / Atlas), Mongoose, Express, Node.js, Cloudinary
 
-<img src="projects/ecomarts001.png" height="200" /> <img src="projects/ecomarts002.png" height="200" /> <img src="projects/ecomarts003.png" height="200" />
+<img src="projects/ecomarts001.png" height="200" /> <img src="projects/ecomarts002.png" height="200" />
 
 ### LifeHacks
 This project is a lifehack sharing website that allows users to register and create an account to post and share lifehacks.
@@ -26,7 +26,7 @@ This project is a lifehack sharing website that allows users to register and cre
 Frontend: Handlebars, HTML, CSS, Bootstrap  
 Backend: Node.js, Express, MongoDB (Compass and Atlas), Mongoose, Cloudinary
 
-<img src="projects/lifehacks001.png" height="200" /> <img src="projects/lifehacks002.png" height="200" /> <img src="projects/lifehacks003.png" height="200" />
+<img src="projects/lifehacks002.png" height="200" /> <img src="projects/lifehacks003.png" height="200" />
 
 ### Raccoons Attack
 OOP DOM manipulation game.
