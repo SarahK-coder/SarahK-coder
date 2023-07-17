@@ -12,7 +12,7 @@ Backend: PHP, Laravel, MySQL
 
 <img src="projects/techtribe_definestates.png" height="200" /> <img src="projects/techtribe_dashboard.png" height="200" />
 
-### ecoMarts - Eco-friendly and Sustainable Products
+### [ecoMarts - Eco-friendly and Sustainable Products](https://ecomarts.netlify.app/)
 ecoMarts is a MERN e-commerce platform that focuses on offering eco-friendly and sustainable products.
 
 Frontend: HTML, CSS, React, Bootstrap  
@@ -20,7 +20,7 @@ Backend: MongoDB (Compass / Atlas), Mongoose, Express, Node.js, Cloudinary
 
 <img src="projects/ecomarts001.png" height="200" /> <img src="projects/ecomarts002.png" height="200" />
 
-### LifeHacks
+### [LifeHacks](https://lifehacks.adaptable.app/)
 This project is a lifehack sharing website that allows users to register and create an account to post and share lifehacks.
 
 Frontend: Handlebars, HTML, CSS, Bootstrap  
@@ -28,13 +28,13 @@ Backend: Node.js, Express, MongoDB (Compass and Atlas), Mongoose, Cloudinary
 
 <img src="projects/lifehacks002.png" height="200" /> <img src="projects/lifehacks003.png" height="200" />
 
-### Raccoons Attack
+### [Raccoons Attack](https://sarahk-coder.github.io/Game/)
 OOP DOM manipulation game.
 
 - Collision Detection with enemy bombs  
 - Shooting of enemy planes (score points for doing so)
 
-<img src="projects/raccoons_attack001.png" height="200" /> <img src="projects/raccoons_attack002.png" height="200" /> <img src="projects/raccoons_attack003.png" height="200" />
+<img src="projects/raccoons_attack002.png" height="200" /> <img src="projects/raccoons_attack003.png" height="200" />
 
 ### Languages and Tools
 ![Image 1](./dev/languages/php.png)
